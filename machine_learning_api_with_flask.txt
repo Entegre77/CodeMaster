@@ -1,0 +1,8 @@
+How to Build A Machine Learning API using Flask | Towards Data Science
+Build REST API for Machine Learning Models using Python and Flask-RESTful
+How to Build a Machine Learning API with Python and Flask - statworx®
+Creating a Machine Learning Web API with Flask - Atmosera
+Deploying Your Machine Learning Model as a REST API Using Flask - Medium
+Turning Machine Learning Models into APIs with Python Flask - DataCamp
+Deploy Machine Learning Model using Flask - GeeksforGeeks
+How to build an API for a machine learning model in 5 minutes using Flask - KDnuggets

@@ -1,0 +1,35 @@
+Here are some of the hyperlinks present on the webpage for supervised learning on Wikipedia:
+
+- https://en.wikipedia.org/wiki/Machine_learning
+- https://en.wikipedia.org/wiki/Unsupervised_learning
+- https://en.wikipedia.org/wiki/Reinforcement_learning
+- https://en.wikipedia.org/wiki/Artificial_neural_network
+- https://en.wikipedia.org/wiki/Decision_tree_learning
+- https://en.wikipedia.org/wiki/Support-vector_machine
+- https://en.wikipedia.org/wiki/Linear_regression
+- https://en.wikipedia.org/wiki/Logistic_regression
+- https://en.wikipedia.org/wiki/Naive_Bayes_classifier
+- https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+- https://en.wikipedia.org/wiki/Random_forest
+- https://en.wikipedia.org/wiki/Gradient_boosting
+- https://en.wikipedia.org/wiki/Artificial_intelligence
+- https://en.wikipedia.org/wiki/Supervised_learning#Regression_analysis
+- https://en.wikipedia.org/wiki/Supervised_learning#Classification
+- https://en.wikipedia.org/wiki/Supervised_learning#Active_learning
+- https://en.wikipedia.org/wiki/Supervised_learning#Semi-supervised_learning
+- https://en.wikipedia.org/wiki/Supervised_learning#Online_learning
+- https://en.wikipedia.org/wiki/Supervised_learning#Transduction
+- https://en.wikipedia.org/wiki/Supervised_learning#Inductive_bias
+- https://en.wikipedia.org/wiki/Supervised_learning#Bias-variance_tradeoff
+- https://en.wikipedia.org/wiki/Supervised_learning#Occam_learning
+- https://en.wikipedia.org/wiki/Supervised_learning#Empirical_risk_minimization
+- https://en.wikipedia.org/wiki/Supervised_learning#Structural_risk_minimization
+- https://en.wikipedia.org/wiki/Supervised_learning#Bayesian_inference
+- https://en.wikipedia.org/wiki/Supervised_learning#Regularization
+- https://en.wikipedia.org/wiki/Supervised_learning#Early_stopping
+- https://en.wikipedia.org/wiki/Supervised_learning#Ensemble_learning
+- https://en.wikipedia.org/wiki/Supervised_learning#Deep_learning
+- https://en.wikipedia.org/wiki/Supervised_learning#Applications
+- https://en.wikipedia.org/wiki/Supervised_learning#See_also
+- https://en.wikipedia.org/wiki/Supervised_learning#References
+- https://en.wikipedia.org/wiki/Supervised_learning#Further_reading

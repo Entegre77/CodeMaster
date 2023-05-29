@@ -1,0 +1,8 @@
+My Curated List of AI and Machine Learning Resources from Around the Web - Medium
+Top 7 Machine Learning resources I wish I knew earlier | by Dimid | Towards Data Science
+Machine learning education | TensorFlow
+30 Best Resources to Study Machine Learning - Serokell
+Machine Learning Resources - Ritchie Ng
+ML Resources - Sam Finlayson
+Awesome Machine Learning Resources - GitHub
+josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software. - GitHub

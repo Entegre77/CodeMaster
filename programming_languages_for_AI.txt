@@ -1,0 +1,11 @@
+The following programming languages are commonly used for AI development:
+- Python
+- Java
+- C++
+- R
+- Julia
+- Lisp
+- Prolog
+- JavaScript
+
+Source: Google search results for 'What are the best programming languages for AI development?'

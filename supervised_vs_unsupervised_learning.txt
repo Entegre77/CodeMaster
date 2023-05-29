@@ -1,0 +1,9 @@
+Supervised vs. Unsupervised Learning Search Results:
+- IBM: https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning
+- Javatpoint: https://www.javatpoint.com/difference-between-supervised-and-unsupervised-learning
+- Guru99: https://www.guru99.com/supervised-vs-unsupervised-learning.html
+- Alteryx: https://www.alteryx.com/glossary/supervised-vs-unsupervised-learning
+- GeeksforGeeks: https://www.geeksforgeeks.org/difference-between-supervised-and-unsupervised-learning/
+- GeeksforGeeks: https://www.geeksforgeeks.org/supervised-unsupervised-learning/
+- Towards Data Science: https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d
+- V7 Labs: https://www.v7labs.com/blog/supervised-vs-unsupervised-learning

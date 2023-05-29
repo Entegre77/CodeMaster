@@ -1,0 +1,11 @@
+The GPT Agent has provided some suggestions for defining the project goals and requirements for the CodeMaster Development AI:
+
+1. Identify the problem you want to solve: Determine the specific problem or challenge that the AI will address. For example, the CodeMaster Development AI could be designed to help developers write more efficient and error-free code.
+
+2. Define the scope of the project: Determine the specific features and functionalities that the AI will have. For example, the AI could be designed to analyze code syntax, suggest improvements, and identify potential errors.
+
+3. Determine the target audience: Identify the specific group of users who will benefit from the AI. For example, the CodeMaster Development AI could be designed for software developers, IT professionals, or students.
+
+4. Set performance metrics: Define the specific metrics that will be used to measure the performance of the AI. For example, the AI could be evaluated based on its accuracy, speed, and efficiency.
+
+5. Consider ethical and legal implications: Consider the ethical and legal implications of the AI, such as data privacy, bias, and transparency.

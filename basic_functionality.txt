@@ -1,0 +1,5 @@
+# Basic Functionality for CodeMaster Development AI
+
+- Respond to user input with relevant information
+- Perform simple tasks such as file management and web searches
+- Delegate more complex tasks to GPT-3.5 powered Agents

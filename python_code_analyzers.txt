@@ -1,0 +1,8 @@
+Pysa: An open source static analysis tool to detect and prevent security issues in Python code - Engineering at Meta
+Chapter 32 - Python Code Analysis — Python 101 1.0 documentation
+Static Code Analysis for Python. Type and style checking, potential… | by Martin Thoma
+Benefits of Top 3 Static Code Analysis Tools for Python - Codiga
+Static Analyzers in Python - MachineLearningMastery.com
+Python Static Analysis Tools - Blog | luminousmen
+Step-by-Step Check Python Code Quality Using 5 Static Analysis Tools | by Amit Chauhan
+Pylint - Python code analyzer - Quintagroup
